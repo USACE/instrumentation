@@ -1,4 +1,4 @@
-# HHD Soft Delivery Burndown List (July, 2020)
+# HHD Burndown List: Soft Delivery (July 29, 2020)
 
 ## Data Explorer (Dashboard)
 
@@ -35,6 +35,9 @@
    * isAdmin
    * isProjectAdmin?
    * isOfficeAdmin?
+
+## Real Time Data Acquisition
+
 
 ## Misc
    * Add tables to track vertical and horizontal datums available for a given project
