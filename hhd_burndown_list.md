@@ -38,6 +38,25 @@
       ]
     }
     ```
+    
+    **After some work, maybe we go even leaner on the JSON structure? Something like this?**
+    ```
+    { <instrument_id>: {
+        <timeseries_id>: [
+          { time: time, value: <value> },
+          { time: time, value: <value> },
+          { time: time, value: <value> }
+        ],
+        <timeseries_id>: [
+          { time: time, value: <value> },
+          { time: time, value: <value> },
+          { time: time, value: <value> }
+        ]
+      },
+      <instrument_id>: {...
+      }
+    }    
+    ```
 
 ## Data Import/Export
    * Import Instruments
