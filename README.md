@@ -2,7 +2,7 @@
 
 Project Management, Issue Tracking, and Documentation for the Instrumentation Project
 
-Have a question?  Looking for a new capability?  Find a bug?  Please [Create an Issue](https://docs.github.com/en/enterprise/2.16/user/github/managing-your-work-on-github/creating-an-issue) to start the conversation.
+Have a question?  Looking for a new capability?  Find a bug?  Please create an [Issue](https://github.com/USACE/instrumentation/issues) to start the conversation.
 
 ## Current Status
 
