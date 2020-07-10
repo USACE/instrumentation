@@ -2,6 +2,8 @@
 
 Project Management, Issue Tracking, and Documentation for the Instrumentation Project
 
+Have a question?  Looking for a new capability?  Find a bug?  Please [Create an Issue](https://docs.github.com/en/enterprise/2.16/user/github/managing-your-work-on-github/creating-an-issue) to start the conversation.
+
 ## Current Status
 
 __2020-07-06__: Prototype-level software is under development with a focus on the Herbert Hoover Dike (HHD) project. Remaining tasks for the HHD project to be completed in 2020 are detailed in the [burndown list here](2020_burndown_hhd.md)
