@@ -1,7 +1,7 @@
 ---
 name: QA Review
 about: Request a review
-title: [QA Review]:
+title: '[QA Review]:'
 labels: help wanted
 assignees: ''
 
