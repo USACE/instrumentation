@@ -1,7 +1,7 @@
 ---
 name: Checklist
 about: Create a report to help us improve
-title: [CHECKLIST]:
+title: '[CHECKLIST]:'
 labels: enhancement
 assignees: ''
 
