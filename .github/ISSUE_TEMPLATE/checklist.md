@@ -1,6 +1,6 @@
 ---
 name: Checklist
-about: Create a report to help us improve
+about: Create a checklist
 title: '[CHECKLIST]:'
 labels: enhancement
 assignees: ''
