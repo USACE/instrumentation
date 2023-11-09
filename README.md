@@ -4,9 +4,7 @@ Project Management, Issue Tracking, and Documentation for the Instrumentation Pr
 
 Have a question?  Looking for a new capability?  Find a bug?  Please create an [Issue](https://github.com/USACE/instrumentation/issues) to start the conversation.
 
-## Current Status
-
-__2020-07-06__: Prototype-level software is under development with a focus on the Herbert Hoover Dike (HHD) project. Remaining tasks for the HHD project to be completed in 2020 are detailed in the [burndown list here](2020_burndown_hhd.md)
+Project status is tracked here: https://github.com/USACE/instrumentation/projects?query=is%3Aopen
 
 ## Code Repositories 
 
